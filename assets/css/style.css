@@ -251,6 +251,10 @@ footer p{
     #hero .hero-content h1{
         font-size: 25px;
     }
+    .service-content{
+        flex-direction: column;
+        text-align: center;
+    }
     .hero-image img{
         width: 350px;
         height: 350px;
